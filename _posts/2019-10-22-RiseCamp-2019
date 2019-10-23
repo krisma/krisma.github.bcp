@@ -1,0 +1,37 @@
+---
+title: "RiseCamp 2019"
+date: 2019-10-22T21:49:30-07:00
+categories:
+  - blog
+tags:
+  - Python
+  - ML
+  - AI
+---
+
+Last Thursday (10/18) I attended the annual conference RISE Camp hosted by UC Berkeley RISELab. Since Microsoft is one of the major sponsors of RISELab, we get free tickets every year. RISELab has been focusing on “Real-time Intelligent Secure Explainable Systems” (that’s what RISE stands for). It’s one of my favorite conferences since 2017 because it includes hands-on lab exercises, in which we can use the framework they built to solve problems. The problems are organized in a series of jupyter notebooks that every attendee could clone and run right at the event.
+One of their most interesting projects is called “Ray”, which has 9K+ stars on Github by the time of this event. To summarize, Ray is a framework in Python which helps users to build and run distributed applications. During the coding session, I tried out the Ray python package to parallelize the run of a user-defined function using the feature called “remote function”. It is smartly designed, such that I only need to add one python decorator right before the function I need to parallelize, and then call ray.get() on the result to actualize the run. 
+
+```python
+import ray
+import time
+
+print('Successfully imported ray!')
+
+ray.init(num_cpus=4, ignore_reinit_error=True)
+
+```
+Successfully imported ray!
+```python
+def slow_function(i):
+    time.sleep(1)
+    return i
+
+start_time = time.time()
+
+results = []
+for i in range(4):
+  results.append(slow_function.remote(i))
+print(result)
+```
+[0, 1, 2, 3]
