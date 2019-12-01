@@ -1,5 +1,5 @@
 ---
-title: "RISE Camp 2019"
+title: "Notes: The Real Estate Market in Historical Perspective"
 date: 2019-12-01T00:25:30-07:00
 categories:
   - blog
