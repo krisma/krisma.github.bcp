@@ -25,7 +25,7 @@ In the first chapter, the author talks about the boom in the stock market. He th
 2000 home prices started to increase significantly<br/>
 
 He points out that the real home prices in the US, which is calculated relative to CPI (consumer price index), were only 66% higher in 2004 than in 1890, or 0.4% a year. The author digs deeper into the psychology behind this phenomenon and gives a couple of explanations. 
-The first reason is that real home prices are calculated relative to CPI, an index that measures the prices paid by consumers for goods and services (investment doesn’t count). The reader must notice that CPI rose 8 folds from 1948 to 2004. If we compare the boom in the real estate market to other markets, it is no longer that noticeable. Everything is much cheaper in 1948.
+The first reason is that real home prices are calculated relative to CPI, an index that measures the prices paid by consumers for goods and services (investment doesn’t count). The reader must notice that CPI rose 8 folds from 1948 to 2004. If we compare the boom in the real estate market to those in other markets, it is no longer that noticeable. Everything is much cheaper in 1948.
 
 ![U.S. CPI 1913-2017](https://blogassetsstorage.blob.core.windows.net/images/us-cpi-1913-2017.svg)
 
