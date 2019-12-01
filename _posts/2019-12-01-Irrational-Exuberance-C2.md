@@ -32,4 +32,4 @@ Also, let’s not forget that technological progress in construction helps to lo
 
 
 Reference:
-1. https://github.com/ray-project/tutorial
+Shiller, Robert J. Irrational Exuberance. Broadway Books, 2009.
