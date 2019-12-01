@@ -15,14 +15,14 @@ In the first chapter, the author talks about the boom in the stock market. He th
 
 ![U.S. Home Prices, Building Costs, Population, and Interest Rates, 1890-2009](https://blogassetsstorage.blob.core.windows.net/images/us-home-prices-building-costs-population-and-interest-rates-1890-2009.png)
 
-1918-1919 Great influenza pandemic, infected 28% of Americans and killed 675,000 of them\
-1920-1921 Severe recession\
-1930 Great depression\
-1942 Home prices started to increase, before end of WW2\
-1944 The Servicemen’s Readjustment Act (G.I. Bill) subsidizes home purchases (low interest, 0 down payment)\
-1944 142,000 new homes built\
-1950 1,952,000 new homes built\
-2000 home prices started to increase significantly\
+1918-1919 Great influenza pandemic, infected 28% of Americans and killed 675,000 of them<br/>
+1920-1921 Severe recession<br/>
+1930 Great depression<br/>
+1942 Home prices started to increase, before end of WW2<br/>
+1944 The Servicemen’s Readjustment Act (G.I. Bill) subsidizes home purchases (low interest, 0 down payment)<br/>
+1944 142,000 new homes built<br/>
+1950 1,952,000 new homes built<br/>
+2000 home prices started to increase significantly<br/>
 
 He points out that the real home prices in the US, which is calculated relative to CPI (consumer price index), were only 66% higher in 2004 than in 1890, or 0.4% a year. The author digs deeper into the psychology behind this phenomenon and gives a couple of explanations. 
 The first reason is that real home prices are calculated relative to CPI, an index that measures the prices paid by consumers for goods and services (investment doesn’t count). The reader must notice that CPI rose 8 folds from 1948 to 2004. {IMAGE CPI graph}. If we compare the boom in the real estate market to other markets, it is no longer that noticeable. Everything is much cheaper in 1948.
