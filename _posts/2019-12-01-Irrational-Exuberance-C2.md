@@ -1,5 +1,5 @@
 ---
-title: "\[Note\] The Real Estate Market in Historical Perspective by Robert Shiller"
+title: "[Note] The Real Estate Market in Historical Perspective by Robert Shiller"
 date: 2019-12-01T00:25:30-07:00
 categories:
   - Note
