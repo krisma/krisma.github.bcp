@@ -1,5 +1,5 @@
 ---
-title: "[Note] The Capitalist Explosion and the Ownership Society as a precipitating factor of the market bubble by Robert Shiller"
+title: "[Note] The Capitalist Explosion and the Ownership Society as a Precipitating Factor of the Market Bubbles by Robert Shiller"
 date: 2019-12-21T22:27:30-07:00
 categories:
   - Note
@@ -11,7 +11,7 @@ tags:
   - Policy
   - Politics
 ---
-In the third chapter, the author listed twelve factors that contributed to market bubbles. A major factor of them is the expansion of capitalism. The author claimed that the world has embraced capitalism since the end of the cold war. Consider the Soviet Union’s breaking up in the late 1970s and Chinese economic reform (Opening of China) in the 1990s. Both became more integrated into the global economy.
+In the third chapter, the author listed twelve factors outside the markets themselves that contributed to market bubbles. A major factor of them is the expansion of capitalism. The author claimed that the world has embraced capitalism since the end of the cold war. Consider the Soviet Union’s breaking up in the late 1970s and Chinese economic reform (Opening of China) in the 1990s. Both became more integrated into the global economy.
 ### Ownership Society
 In the US, George W. Bush named the society as “Ownership Society”, in which private property is not only for a few capitalists but for everyone. People are encouraged to invest in stock market with their savings in Retirement Saving Account (RSA) as well as purchase homes.
 ### Corporate Downsizing
