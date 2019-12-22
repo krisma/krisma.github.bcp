@@ -28,7 +28,7 @@ The first reason is that real home prices are calculated relative to CPI, an ind
 
 ![U.S. CPI 1913-2017](https://blogassetsstorage.blob.core.windows.net/images/us-cpi-1913-2017.svg)
 
-### Psychological and Other Reasons
+### Psychological and Methodical Reasons
 The second reason is that people still remember the prices at which they purchase their homes many years ago because homes are traded infrequently. For example, the same home purchased in 1948 at $16,000 could be sold at $190,000 in 2004. Note that this absolute difference in price is not relative to CPI. Unlike the stock market, in which most companies tend to maintain their price at about $30 per share by splitting or reverse splitting, the market for real estate doesn’t have such adjustment on prices. 
 
 Also, let’s not forget that technological progress in construction helps to lower the building cost. Unlike teachers and lawyers, who are pretty much doing the same things as they do many decades ago, home developers take advantage of new materials and equipment, along with the more mechanized procedures of construction to build houses faster and at a lower cost. 
