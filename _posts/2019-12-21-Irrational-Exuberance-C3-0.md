@@ -1,5 +1,5 @@
 ---
-title: "[Note] The Capitalist Explosion and the Ownership Society as a Precipitating Factor of the Market Bubbles by Robert Shiller"
+title: "The Capitalist Explosion and the Ownership Society as a Precipitating Factor of the Market Bubbles by [Robert Shiller]"
 date: 2019-12-21T22:27:30-07:00
 categories:
   - Note
