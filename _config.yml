@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Kris Ma"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Foodie at Microsoft AI and Research. Loves machine learning, financial engineering, and cooking."
+  bio    : "Engineer at Microsoft AI and Research."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
