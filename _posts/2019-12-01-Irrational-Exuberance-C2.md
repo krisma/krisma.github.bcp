@@ -8,7 +8,7 @@ tags:
   - Market
   - Real Estate
 ---
-In the first chapter, the author talks about the boom in the stock market. He then points out the human psychology underlies could influence other markets, like the market for real estate. In the second chapter, the author suggests that even though many people believe that there was a similar boom in the real estate market, real home price did not increase significantly. He summarizes the reasons for booms and busts in real home prices in the last few decades.
+In the first chapter, the author talks about the boom in the stock market. He then points out that human psychology underlies could influence other markets, like the market for real estate. In the second chapter, the author suggests that even though many people believe that there was a similar boom in the real estate market, real home price did not increase significantly. He summarizes the reasons for booms and busts in real home prices in the last few decades.
 
 ### Home Prices in the US
 ![U.S. Home Prices, Building Costs, Population, and Interest Rates, 1890-2009](https://blogassetsstorage.blob.core.windows.net/images/us-home-prices-building-costs-population-and-interest-rates-1890-2009.png)
