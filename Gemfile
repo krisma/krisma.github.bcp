@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-repository: krisma/krisma.github.bcp
-
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
